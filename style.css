@@ -79,6 +79,10 @@ body{
     padding: 12px 0;
 }
 
-.location-pin.png{
-    
+.rodape-texto{
+    color: white;
+}
+
+.rodape-icone{
+    width: 35px;
 }
